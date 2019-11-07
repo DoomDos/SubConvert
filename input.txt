@@ -1,0 +1,143 @@
+[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.96,0:00:19.46,Default,,0000,0000,0000,,Mother... where are you?
+Dialogue: 0,0:00:28.79,0:00:30.08,Default,,0000,0000,0000,,Get away from Elli!
+Dialogue: 0,0:00:37.88,0:00:38.75,Default,,0000,0000,0000,,Lita!
+Dialogue: 0,0:00:39.54,0:00:42.04,Default,,0000,0000,0000,,It's alright now, Elli!
+Dialogue: 0,0:00:50.08,0:00:51.00,Default,,0000,0000,0000,,Oh, come on.
+Dialogue: 0,0:00:51.00,0:00:53.50,Default,,0000,0000,0000,,It's hard to walk when you \Ncling on me like that.
+Dialogue: 0,0:00:53.50,0:00:54.17,Default,,0000,0000,0000,,But, it's just...
+Dialogue: 0,0:00:54.92,0:00:57.04,Default,,0000,0000,0000,,Elli, you're such a baby, you know that?
+Dialogue: 0,0:00:57.58,0:00:59.96,Default,,0000,0000,0000,,We're going to be second-graders soon.
+Dialogue: 0,0:01:00.42,0:01:02.38,Default,,0000,0000,0000,,We'll be the big girls among \Nthe lower-grade students,
+Dialogue: 0,0:01:02.38,0:01:03.83,Default,,0000,0000,0000,,so you have to shape up.
+Dialogue: 0,0:01:05.21,0:01:06.50,Default,,0000,0000,0000,,There's no need to.
+Dialogue: 0,0:01:07.04,0:01:09.46,Default,,0000,0000,0000,,Elli, you can already use mana, right?
+Dialogue: 0,0:01:09.46,0:01:10.71,Default,,0000,0000,0000,,Forget about that!
+Dialogue: 0,0:01:11.17,0:01:13.38,Default,,0000,0000,0000,,I just want to stay your \N"little sister" forever, Lita.
+Dialogue: 0,0:01:13.38,0:01:15.04,Default,,0000,0000,0000,,That's okay, isn't it?
+Dialogue: 0,0:01:15.79,0:01:17.29,Default,,0000,0000,0000,,Oh, Elli...
+Dialogue: 0,0:03:14.46,0:03:15.42,Default,,0000,0000,0000,,Oh, come on.
+Dialogue: 0,0:03:14.88,0:03:17.46,On Top,,0000,0000,0000,,Two Young Ladies Assemble \Nat the Chained Castle
+Dialogue: 0,0:03:15.42,0:03:17.63,Default,,0000,0000,0000,,It's hard to walk when you \Ncling on me like that.
+Dialogue: 0,0:03:18.13,0:03:19.58,Default,,0000,0000,0000,,Well, it's because I'm happy.
+Dialogue: 0,0:03:19.58,0:03:22.71,Default,,0000,0000,0000,,Starting today we're going to be\Ntogether all the time for a week, Lita.
+Dialogue: 0,0:03:22.71,0:03:24.83,Default,,0000,0000,0000,,Well, I'm happy about too...
+Dialogue: 0,0:03:26.38,0:03:29.50,Default,,0000,0000,0000,,Those two act just like \Nactual sisters, don't they?
+Dialogue: 0,0:03:29.79,0:03:31.63,Default,,0000,0000,0000,,Yes, but...
+Dialogue: 0,0:03:31.96,0:03:33.13,Default,,0000,0000,0000,,What is this here?
+Dialogue: 0,0:03:33.13,0:03:33.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:35.29,0:03:36.96,Default,,0000,0000,0000,,How many times do I need to tell you?
+Dialogue: 0,0:03:37.17,0:03:40.21,Default,,0000,0000,0000,,Me and you are, respectively, tutors for a\Nhead family and a branch family of that House.
+Dialogue: 0,0:03:40.71,0:03:42.71,Default,,0000,0000,0000,,We are rivals to each other.
+Dialogue: 0,0:03:43.13,0:03:44.63,Default,,0000,0000,0000,,I don't think it's a problem!
+Dialogue: 0,0:03:44.63,0:03:47.63,Default,,0000,0000,0000,,After all, the two young \Nladies get along great!
+Dialogue: 0,0:03:47.92,0:03:49.54,Default,,0000,0000,0000,,Even if that's the case,
+Dialogue: 0,0:03:49.54,0:03:52.33,Default,,0000,0000,0000,,the issue is how our clients \Nwould feel about it.
+Dialogue: 0,0:03:52.83,0:03:57.92,Default,,0000,0000,0000,,At the very least, the head maid of your\Nresidence doesn't seem to share your opinion.
+Dialogue: 0,0:03:58.67,0:04:02.42,Default,,0000,0000,0000,,I hear she strong-armed her own\Nname onto the visitors' list.
+Dialogue: 0,0:04:03.17,0:04:05.38,Default,,0000,0000,0000,,She said they couldn't depend on me alone.
+Dialogue: 0,0:04:05.38,0:04:09.13,Default,,0000,0000,0000,,Oh my, sounds like it will be a "fun" week.
+Dialogue: 0,0:04:09.46,0:04:10.71,Default,,0000,0000,0000,,Well, anyway...
+Dialogue: 0,0:04:12.88,0:04:13.92,Default,,0000,0000,0000,,Nonetheless...
+Dialogue: 0,0:04:14.67,0:04:16.50,Default,,0000,0000,0000,,we have but one mission...
+Dialogue: 0,0:04:17.88,0:04:21.38,Default,,0000,0000,0000,,To protect the enjoyable school\Nlife of our respective charges.
+Dialogue: 0,0:04:23.63,0:04:25.96,Default,,0000,0000,0000,,Who do you think the \Ncadets will be this year?
+Dialogue: 0,0:04:26.29,0:04:29.54,Default,,0000,0000,0000,,Naturally, there's no doubt \NPresident Christa will be one.
+Dialogue: 0,0:04:29.88,0:04:33.13,Default,,0000,0000,0000,,She's already vowed that this is the\Nyear she'll seize the title of "Luna"!
+Dialogue: 0,0:04:33.54,0:04:35.75,Default,,0000,0000,0000,,Well, there's no question who \Nthe other girl will be, either!
+Dialogue: 0,0:04:36.17,0:04:39.08,Default,,0000,0000,0000,,Last year's Queen, Shenfa Zwitoque!
+Dialogue: 0,0:04:39.25,0:04:41.54,Default,,0000,0000,0000,,How lovely the both of them are!
+Dialogue: 0,0:04:41.54,0:04:45.21,Default,,0000,0000,0000,,As the pride of St. Friedeswiede,\Nthe names of those two are sure to be up there!
+Dialogue: 0,0:04:45.54,0:04:48.04,Default,,0000,0000,0000,,Our school will surely secure the\Ntitle of Luna again this year!
+Dialogue: 0,0:04:48.67,0:04:52.42,Default,,0000,0000,0000,,A match against a sister school\Ngets everyone fired up, doesn't it?!
+Dialogue: 0,0:04:52.54,0:04:56.13,Default,,0000,0000,0000,,Seems the cadets are chosen from among the most\Noutstanding students in the higher grades, huh?
+Dialogue: 0,0:04:58.21,0:04:59.75,Default,,0000,0000,0000,,Join my unit?
+Dialogue: 0,0:05:00.21,0:05:01.75,Default,,0000,0000,0000,,A-am I asking too much?
+Dialogue: 0,0:05:03.04,0:05:04.21,Default,,0000,0000,0000,,I-I get it.
+Dialogue: 0,0:05:04.54,0:05:07.63,Default,,0000,0000,0000,,For one thing, Elli, there's too much\Nof a disparity between our Statuses,
+Dialogue: 0,0:05:08.13,0:05:10.13,Default,,0000,0000,0000,,and, as for our actual abilities...
+Dialogue: 0,0:05:10.71,0:05:11.33,Default,,0000,0000,0000,,But...!
+Dialogue: 0,0:05:11.63,0:05:12.38,Default,,0000,0000,0000,,If...
+Dialogue: 0,0:05:12.63,0:05:16.50,Default,,0000,0000,0000,,If I could somehow fight alongside you,\Nit would be just wonderful.
+Dialogue: 0,0:05:22.71,0:05:24.25,Default,,0000,0000,0000,,Good morning, Melida.
+Dialogue: 0,0:05:26.83,0:05:28.13,Default,,0000,0000,0000,,Good morning, Nerva.
+Dialogue: 0,0:05:32.25,0:05:32.79,Default,,0000,0000,0000,,Lita...
+Dialogue: 0,0:05:32.79,0:05:34.79,Default,,0000,0000,0000,,Good morning, everyone.
+Dialogue: 0,0:05:35.63,0:05:36.71,Default,,0000,0000,0000,,Elli, let's go.
+Dialogue: 0,0:05:38.08,0:05:43.38,Default,,0000,0000,0000,,At long last, today marks the start of this\Nyear's Luna Lumiere Selection Tournament!
+Dialogue: 0,0:05:44.04,0:05:45.38,Default,,0000,0000,0000,,As you know,
+Dialogue: 0,0:05:45.38,0:05:49.58,Default,,0000,0000,0000,,the Luna Lumiere Selection \NTournament is a joint event
+Dialogue: 0,0:05:49.58,0:05:53.42,Default,,0000,0000,0000,,conducted with our sister school,\NSt. d'Autriche Girls' Academy.
+Dialogue: 0,0:05:54.13,0:05:59.67,Default,,0000,0000,0000,,With the title of "Moon Goddess: Luna Lumiere"\Non the line, the cadets representing each school
+Dialogue: 0,0:05:59.92,0:06:01.92,Default,,0000,0000,0000,,will confront a harsh trial.
+Dialogue: 0,0:06:02.42,0:06:04.21,Default,,0000,0000,0000,,The "Luna Lumiere Selection Tournament"...
+Dialogue: 0,0:06:04.58,0:06:08.17,Default,,0000,0000,0000,,With two students selected from each school,\Nthere's a total of four students who compete.
+Dialogue: 0,0:06:08.46,0:06:09.29,Default,,0000,0000,0000,,Furthermore...
+Dialogue: 0,0:06:09.29,0:06:11.38,Default,,0000,0000,0000,,During the weeklong period \Nwhen the tournament is held,
+Dialogue: 0,0:06:11.38,0:06:14.13,Default,,0000,0000,0000,,all contact with the \Noutside world is cut off.
+Dialogue: 0,0:06:14.46,0:06:18.42,Default,,0000,0000,0000,,The trial that the cadets will undertake takes\Nplace on the final day of the tournament.
+Dialogue: 0,0:06:18.88,0:06:21.75,Default,,0000,0000,0000,,However, that alone does not\Ndetermine the tournament's outcome.
+Dialogue: 0,0:06:22.25,0:06:23.88,Default,,0000,0000,0000,,For the next seven days,
+Dialogue: 0,0:06:23.88,0:06:25.38,Default,,0000,0000,0000,,your conduct within the school,
+Dialogue: 0,0:06:25.38,0:06:27.38,Default,,0000,0000,0000,,the effort you show with \Nregard to the trial...
+Dialogue: 0,0:06:27.42,0:06:30.71,Default,,0000,0000,0000,,All of those are things \Nyou may be judged upon.
+Dialogue: 0,0:06:31.29,0:06:32.79,Default,,0000,0000,0000,,Your performance in the trial,
+Dialogue: 0,0:06:32.79,0:06:34.96,Default,,0000,0000,0000,,as well as the votes cast by everyone...
+Dialogue: 0,0:06:35.21,0:06:39.75,Default,,0000,0000,0000,,Based on those results,\Nthe cadet who receives the most points overall
+Dialogue: 0,0:06:39.75,0:06:43.33,Default,,0000,0000,0000,,will officially receive the \Ndistinction of "Luna Lumiere"!
+Dialogue: 0,0:06:46.83,0:06:49.21,Default,,0000,0000,0000,,That surprise you, Salacha?
+Dialogue: 0,0:06:49.96,0:06:51.25,Default,,0000,0000,0000,,Keira...
+Dialogue: 0,0:06:51.88,0:06:54.92,Default,,0000,0000,0000,,They're the Valkyries who \Nguard this glass palace.
+Dialogue: 0,0:06:55.25,0:06:59.04,Default,,0000,0000,0000,,No one will be allowed entry to the palace\Nwithout having received permission!
+Dialogue: 0,0:06:59.50,0:07:01.04,Default,,0000,0000,0000,,If you desire to enter,
+Dialogue: 0,0:07:01.04,0:07:03.79,Default,,0000,0000,0000,,present proof that you have \Nbene given permission!
+Dialogue: 0,0:07:04.29,0:07:05.63,Default,,0000,0000,0000,,Fascinating, aren't they?
+Dialogue: 0,0:07:05.63,0:07:06.71,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:10.54,0:07:11.88,Default,,0000,0000,0000,,Keira Espada...
+Dialogue: 0,0:07:12.25,0:07:15.29,Default,,0000,0000,0000,,along with the rest of the group from\NSt. d'Autriche Girls' Academy.
+Dialogue: 0,0:07:15.58,0:07:16.83,Default,,0000,0000,0000,,We have received permission.
+Dialogue: 0,0:07:17.08,0:07:18.63,Default,,0000,0000,0000,,Allow us to pass.
+Dialogue: 0,0:07:21.79,0:07:23.96,Default,,0000,0000,0000,,It would seem they are \Nbeing allowed to enter.
+Dialogue: 0,0:07:24.58,0:07:27.42,Default,,0000,0000,0000,,Now, let us greet our friends!
+Dialogue: 0,0:07:32.88,0:07:33.67,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:07:33.67,0:07:37.46,Default,,0000,0000,0000,,Sure enough, one of d'Autriche's \Ncadets is Keira.
+Dialogue: 0,0:07:37.46,0:07:39.21,Default,,0000,0000,0000,,She's d'Autriche's "Prince"!
+Dialogue: 0,0:07:39.21,0:07:40.50,Default,,0000,0000,0000,,Who's that next to her?
+Dialogue: 0,0:07:40.50,0:07:42.42,Default,,0000,0000,0000,,It seems to be a first-year student...
+Dialogue: 0,0:07:42.42,0:07:44.88,Default,,0000,0000,0000,,Now that you mention it, I've heard of her.
+Dialogue: 0,0:07:44.88,0:07:46.58,Default,,0000,0000,0000,,Word is they've got this \Namazing first-year girl...
+Dialogue: 0,0:07:46.58,0:07:48.29,Default,,0000,0000,0000,,She's cute, isn't she?
+Dialogue: 0,0:07:57.58,0:08:01.46,Default,,0000,0000,0000,,And now, moving right along,\Nallow me to present our academy's cadets.
+Dialogue: 0,0:08:02.00,0:08:03.17,Default,,0000,0000,0000,,The cadets are...
+Dialogue: 0,0:08:06.71,0:08:08.29,Default,,0000,0000,0000,,They must be kidding, right?
+Dialogue: 0,0:08:13.04,0:08:14.17,Default,,0000,0000,0000,,The cadets are...
+Dialogue: 0,0:08:14.79,0:08:17.42,Default,,0000,0000,0000,,Melida Angel and Elise Angel.
+Dialogue: 0,0:08:18.17,0:08:20.75,Default,,0000,0000,0000,,But why...? This can't be happening...
+Dialogue: 0,0:08:21.29,0:08:22.88,Default,,0000,0000,0000,,The two of you, come up here.
+Dialogue: 0,0:08:31.25,0:08:32.71,Default,,0000,0000,0000,,Quiet down!
+Dialogue: 0,0:08:33.17,0:08:35.88,Default,,0000,0000,0000,,We now assembled together the\Ncadets from both academies.
+Dialogue: 0,0:08:36.33,0:08:39.04,Default,,0000,0000,0000,,Next, allow me to unveil \Ndetails of the trial.
+Dialogue: 0,0:08:39.54,0:08:44.54,Default,,0000,0000,0000,,In this commemorable 50th year of the\NLuna Lumiere Selection Tournament,
+Dialogue: 0,0:08:44.54,0:08:48.00,Default,,0000,0000,0000,,the trial will be held right \Nhere in Glassmond Palace.
+Dialogue: 0,0:08:48.46,0:08:55.25,Default,,0000,0000,0000,,The trial is a round-robin battle royal between\Ngroups of three students, each led by a cadet.
+Dialogue: 0,0:08:55.88,0:08:59.75,Default,,0000,0000,0000,,Each student will have a medal\Nlike this pinned to their chest,
+Dialogue: 0,0:08:59.75,0:09:03.17,Default,,0000,0000,0000,,and the team that captures the most of them\Nwithin the time limit will be declared the winner.
+Dialogue: 0,0:09:03.54,0:09:04.71,Default,,0000,0000,0000,,Without further ado...
